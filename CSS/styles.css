@@ -1,0 +1,99 @@
+body {
+    background-image: url("/img/Screenshot2_1.png");
+    margin: auto;
+    font-family: Playfair, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container_12 {
+    box-sizing: border-box;
+    text-align: center;
+    margin: auto;
+    margin-top: 1.25em
+}
+#header {
+   box-sizing: border-box; 
+   width: 100%;
+   background-color: black;
+   height:auto;
+   margin-top: 1.25em;
+}
+
+.navLink {
+    color: #FFFFE6;
+    margin: 0 1.25em;
+}
+
+.wrapper, #landingPage {
+    box-sizing: border-box;
+    width: 65%;
+    height: 100%;
+    margin: auto;
+    max-width: 1000px;
+    background-color: #FFFFE6;
+}
+
+#landingPage {
+    margin-top: 4em;
+    padding-bottom: 4em;
+}
+
+h1 {
+    font-weight: 400;
+    padding-top: 1.25em;
+}
+
+p {
+    width:95%;
+    margin:auto;
+}
+
+iframe {
+    box-sizing: border-box;
+    width:90%;
+    height:20em;
+    overflow: hidden;
+}
+
+h4 {
+    margin-bottom: .75em;
+}
+
+.comingSoon {
+    padding-bottom: 2em;
+    font-size: .75em;
+}
+
+.resDesc {
+    margin-bottom: 2em;
+}
+
+#phLogo, #navyLogo, #chaseLogo {
+    height: 8.5em;
+    width: 11.5em;
+}
+
+#TJS {
+    margin-top: 2.5em;
+    height: 10em;
+    width: 10em;
+}
+
+.aboutP {
+    width:80%;
+    margin-bottom: 1.75em;
+        
+}
+
+.contact {
+    margin: 1.75em 0;
+}
+
+.socialLink {
+    height: 4em;
+    width: 4em
+}
+
