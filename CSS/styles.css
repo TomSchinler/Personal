@@ -23,7 +23,7 @@ a {
 }
 
 .navLink {
-    color: #FFFFE6;
+    color: #BCBC9B;
     margin: 0 1.25em;
 }
 
@@ -33,7 +33,7 @@ a {
     height: 100%;
     margin: auto;
     max-width: 1000px;
-    background-color: #FFFFE6;
+    background-color: #BCBC9B;
 }
 
 #landingPage {
@@ -64,9 +64,27 @@ h4 {
 
 .comingSoon {
     padding-bottom: 2em;
-    font-size: .75em;
 }
 
+#resume {
+    text-align: left;
+}
+
+h3{
+    padding-left: .25em;
+}
+
+.jobTitle {
+    font-weight: bold;
+}
+
+span {
+    float: right;
+}
+
+.position {
+    clear: both;
+}
 .resDesc {
     margin-bottom: 2em;
 }
