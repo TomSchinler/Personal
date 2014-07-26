@@ -51,11 +51,9 @@ p {
     margin:auto;
 }
 
-iframe {
-    box-sizing: border-box;
-    width:90%;
-    height:20em;
-    overflow: hidden;
+.portSS {
+    max-width: 70%;
+    margin-bottom: 1em;
 }
 
 h4 {
